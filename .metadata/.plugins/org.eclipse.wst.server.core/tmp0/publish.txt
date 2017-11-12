@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Sat Sep 02 23:10:54 KST 2017
+org.eclipse.jst.jee.server\:jpa3=D\:\\spring-tool-suite-3.8.4.RELEASE-e4.6.3-win32-x86_64\\sts-bundle\\pivotal-tc-server-developer-3.2.4.SR1\\base-instance\\wtpwebapps\\jpa3
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Lenovo\\.m2\\repository\\org\\springframework\\spring-web\\4.3.8.RELEASE\\spring-web-4.3.8.RELEASE.jar=D\:\\spring-tool-suite-3.8.4.RELEASE-e4.6.3-win32-x86_64\\sts-bundle\\pivotal-tc-server-developer-3.2.4.SR1\\base-instance\\wtpwebapps\\jpa3\\WEB-INF\\lib\\spring-web-4.3.8.RELEASE.jar
